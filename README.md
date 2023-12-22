@@ -50,7 +50,7 @@ This component of the data utilises data derived from actual questionnaires comp
 # Tableau Dashboard
 [Link to Tableau Dashboard](https://public.tableau.com/app/profile/laura.isabell.jantz/viz/Project_2_final_17025763063880/Dashboard?publish=yes)
 
-# Summary of Results & Future Directions
+# Summary of Results
 The analysis has yielded several significant insights into the relationship between nutrition and depression among the participants:
 
 1. Age and Depression: No significant differences in depression prevalence across different age groups were found. This suggests that age is not a strong predictor of depression as the condition affects people of all ages.
