@@ -20,14 +20,14 @@ This component of the data utilises data derived from actual questionnaires comp
 2. Mental Health (Depression Screener): The dataset employs the PHQ-9 (Patient Health Questionnaire-9) as a measure of depression levels among participants. This well-established tool comprises nine questions that gauge the frequency and severity of depression symptoms, allowing for a nuanced understanding of the participants' mental health.
 
 # Data Preparation + Analysis
-# RAW DATA
+RAW DATA
 1. Identify all relevant datasets
 2. Transform datasets (.xpt file) into .csv file
 3. Identifying all relevant columns in each dataset
 4. Creating one file for each questionaire for the whole duration (2007-2020)
 5. Export as one big file fpr each questionaire (demo, diet, mental)
 
-# CLEAN DATA
+CLEAN DATA
 0. Creating an excel file for explaination of the data ('Data_Decoder')
 1. Assessing and dealing with NaNs and duplicates
 2. Preparing columns for further analysis
@@ -37,7 +37,7 @@ This component of the data utilises data derived from actual questionnaires comp
 6. Filtering only adults and dropping all incomplete rows
 7. Exporting 'clean' dataset for analysis
 
-# DATA ANALYSIS
+DATA ANALYSIS
 1. Assessing correlations between total_score (of PHQ-9) and gender, age, nutrients
 2. Logistic regression (target = total_score)
 3. Visualisations of data distribution and behaviour
