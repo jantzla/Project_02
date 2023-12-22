@@ -50,7 +50,7 @@ This component of the data utilises data derived from actual questionnaires comp
 # Tableau Dashboard
 [Link to Tableau Dashboard](https://public.tableau.com/app/profile/laura.isabell.jantz/viz/Project_2_final_17025763063880/Dashboard?publish=yes)
 
-# Summary of Results # Future Directions
+# Summary of Results & Future Directions
 The analysis has yielded several significant insights into the relationship between nutrition and depression among the participants:
 
 1. Age and Depression: No significant differences in depression prevalence across different age groups were found. This suggests that age is not a strong predictor of depression as the condition affects people of all ages.
@@ -63,7 +63,7 @@ The analysis has yielded several significant insights into the relationship betw
 
 5. Diversity in Nutrient Intake: The data suggests that depressed individuals tend to have a less diverse nutrient intake compared to their non-depressed counterparts. This finding points to the importance of a varied diet for mental wellbeing.
 
-Future Directions
+# Future Directions
 Building on these findings, there are several promising avenues for further research:
 
 - Pre and Post-Pandemic Comparison: Investigating changes in depression rates and dietary patterns before and after the COVID-19 pandemic would provide valuable insights into the impact of global crises on mental health.
