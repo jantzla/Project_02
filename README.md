@@ -1,4 +1,5 @@
 # Project_02
+[Link to instructions](https://github.com/jantzla/Project_02/blob/main/Instructions)
 
 # Dietary Recommendations for Depression: Insights from NHANES 2007-2020
 
