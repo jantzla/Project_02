@@ -28,14 +28,14 @@ RAW DATA
 5. Export as one big file fpr each questionaire (demo, diet, mental)
 
 CLEAN DATA
-0. Creating an excel file for explaination of the data ('Data_Decoder')
-1. Assessing and dealing with NaNs and duplicates
-2. Preparing columns for further analysis
-3. Defining the timeline (2007-2020) as only in 2007 the PHQ-9 was introduced into the survey
-4. Creating bins for the different degrees of depression (based in total score of PHQ-9)
-5. Joining all three tables (demo, diet, mental) on 'patient_id'
-6. Filtering only adults and dropping all incomplete rows
-7. Exporting 'clean' dataset for analysis
+1. Creating an excel file for explaination of the data ('Data_Decoder')
+2. Assessing and dealing with NaNs and duplicates
+3. Preparing columns for further analysis
+4. Defining the timeline (2007-2020) as only in 2007 the PHQ-9 was introduced into the survey
+5. Creating bins for the different degrees of depression (based in total score of PHQ-9)
+6. Joining all three tables (demo, diet, mental) on 'patient_id'
+7. Filtering only adults and dropping all incomplete rows
+8. Exporting 'clean' dataset for analysis
 
 DATA ANALYSIS
 1. Assessing correlations between total_score (of PHQ-9) and gender, age, nutrients
