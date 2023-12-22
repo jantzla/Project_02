@@ -1,6 +1,6 @@
-Mid Bootcamp Project
+# Mid Bootcamp Project
 
-Introduction:
+# Introduction:
 
 The goal of this project is to perform a descriptive statistical analysis, gain insights and create an interactive dashboard that tells a compelling story with visualizations, allowing for decision-making.
 
@@ -11,7 +11,7 @@ A project that you can use to advance your career in your current company
 A project on a topic that you are passionate about
 If you're struggling to come up with a topic, we have provided a list of datasets for you to consider. However, we highly recommend that you explore and select a topic and dataset that personally interests you, as this will make the project more engaging and rewarding.
 
-Prerequisites:
+# Prerequisites:
 In order to successfully complete the upcoming project, you should possess a strong understanding of several key concepts, including Python programming, data wrangling, exploratory data analysis (EDA), SQL and Tableau. The following are essential prerequisites that you should have before beginning the project:
 
 - Proficiency in basic Python programming, including knowledge of data wrangling and data cleaning techniques in Python. 
@@ -23,7 +23,7 @@ In order to successfully complete the upcoming project, you should possess a str
 - Basic knowledge of probability and inferential statistics to conduct tests used in EDA, such as chi-square tests, normality tests, and to interpret p-values in the context of data analytics. This includes an understanding of probability distributions, such as the normal distribution.
 - Familiarity with Tableau in order to create interactive dashboards for decision making.
 
-Suggested ways to get started:
+# Suggested ways to get started:
 - Select a business problem and formulate one or more hypotheses that will guide your data analysis, allowing you to draw meaningful conclusions. Locate relevant data sources. Consider merging multiple datasets to augment your analysis with additional insights.
 - Examine the data, understand what the fields mean and use exploratory data analysis to explore the data and identify any issues that need to be addressed.
 - Do data cleaning and data wrangling to prepare the dataset for analysis. Remember to look into missing data, outliers, data types, feature selection, converting qualitative data to quantitative etc.
@@ -32,7 +32,7 @@ Suggested ways to get started:
 - Create a visually appealing presentation with minimal text to showcase that effectively communicates your insights and conclusions to stakeholders, building a compelling narrative that highlights the significance of your analysis.
 - Remember, the goal of this project is to showcase your skills in data analysis, visualization and extraction of insights that are meaningful and actionable.
 
-Deliverables:
+# Deliverables:
 You must submit the following deliverables in order for the project to be deemed complete:
 
 1. A new repo on your github account.
@@ -44,13 +44,13 @@ You must submit the following deliverables in order for the project to be deemed
 7. A README with the completed project documentation.
 8. The URL of the slides for your project presentation - in case you use them.
 
-Presentation:
+# Presentation:
 When presenting your work, there are many important factors to consider, such as the content of your presentation and the way you deliver it. The presentation will take a maximum of 7min and no code will be shown. Remember, your audience do not care about the code, they care about the insights provided and the story that you tell.
 
-Rubrics:
+# Rubrics:
 In order to assess your project and ensure all requirements are met, a rubric will be used. This rubric is used to evaluate your project by your teaching staff but also to communicate what constitutes incomplete, acceptable and excellent performance across each of the learning outcomes for the project. Take some time to review the rubric here and ask Gonçalo or Karol any questions about it if necessary.
 
-Optional Advanced Features:
+# Optional Advanced Features:
 While completing the basic requirements of your project is a great start, taking advantage of some advanced features can really take your work to the next level. Here are some options to consider if you want to go above and beyond:
 
 - Data gathering and integration: use APIs and web scraping to gather data from different sources. Combine and integrate data from multiple sources, including different databases, APIs, or file formats.
